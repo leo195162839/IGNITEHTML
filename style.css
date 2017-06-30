@@ -1,0 +1,37 @@
+body {
+	font-family: Arial;
+	background-image: url("http://www.newdesignfile.com/postpic/2010/02/graphic-design-web-page-background_204599.png");
+	background-size:     cover;           
+    background-repeat:   no-repeat;
+    background-position: center center;
+}
+
+table, tr, td {
+	border: 1px solid black;
+	border-collapse: collapse;
+	width: 100%;
+	padding: 15px;
+}
+
+#image1 {
+	width: 200px;
+}
+
+#image2 {
+	width: 400px;
+}
+h1 {
+	text-align: center;
+}
+h3 {
+	text-align: center;
+	color: red;
+}
+
+p {
+	color: blue;
+}
+
+h1 {
+	color: green;
+}
